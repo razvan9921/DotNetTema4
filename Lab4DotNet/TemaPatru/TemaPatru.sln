@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemaPatru", "TemaPatru\TemaPatru.csproj", "{381668C3-270E-4ED4-A478-37DCCD880F72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemaPatruMain", "TemaPatruMain\TemaPatruMain.csproj", "{5EA396C9-E64A-44FA-9807-5E8EAECBB9E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{381668C3-270E-4ED4-A478-37DCCD880F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381668C3-270E-4ED4-A478-37DCCD880F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{381668C3-270E-4ED4-A478-37DCCD880F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{381668C3-270E-4ED4-A478-37DCCD880F72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EA396C9-E64A-44FA-9807-5E8EAECBB9E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA396C9-E64A-44FA-9807-5E8EAECBB9E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA396C9-E64A-44FA-9807-5E8EAECBB9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA396C9-E64A-44FA-9807-5E8EAECBB9E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5B9CE69-6081-4027-A528-E48F3A2E7B54}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\rorhu\Desktop\Lab4DotNet\TemaPatru\TemaPatru\bin\Debug\netcoreapp2.1\TemaPatru.deps.json
+C:\Users\rorhu\Desktop\Lab4DotNet\TemaPatru\TemaPatru\bin\Debug\netcoreapp2.1\TemaPatru.dll
+C:\Users\rorhu\Desktop\Lab4DotNet\TemaPatru\TemaPatru\bin\Debug\netcoreapp2.1\TemaPatru.pdb
+C:\Users\rorhu\Desktop\Lab4DotNet\TemaPatru\TemaPatru\obj\Debug\netcoreapp2.1\TemaPatru.csproj.CoreCompileInputs.cache
+C:\Users\rorhu\Desktop\Lab4DotNet\TemaPatru\TemaPatru\obj\Debug\netcoreapp2.1\TemaPatru.AssemblyInfoInputs.cache
+C:\Users\rorhu\Desktop\Lab4DotNet\TemaPatru\TemaPatru\obj\Debug\netcoreapp2.1\TemaPatru.AssemblyInfo.cs
+C:\Users\rorhu\Desktop\Lab4DotNet\TemaPatru\TemaPatru\obj\Debug\netcoreapp2.1\TemaPatru.dll
+C:\Users\rorhu\Desktop\Lab4DotNet\TemaPatru\TemaPatru\obj\Debug\netcoreapp2.1\TemaPatru.pdb
+C:\Users\rorhu\Desktop\Lab4DotNet\TemaPatru\TemaPatru\obj\Debug\netcoreapp2.1\TemaPatru.csprojAssemblyReference.cache
